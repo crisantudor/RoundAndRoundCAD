@@ -17,3 +17,5 @@ Funcția `rnd` generează numere pseudo-aleatoare. Are cinci variabile: `modulus
 # <a name="Documentatie"></a>Documentație:
 - <https://www.cadforum.cz/en/qaID.asp?tip=1366>
 - <https://help.autodesk.com/view/ACD/2023/ENU/?guid=GUID-3FCEA129-CB34-48E6-B3A2-36ADE2D3B584>
+
+---
